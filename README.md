@@ -1,7 +1,7 @@
 # note-taker-express
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-This project was built to stregthen the knowledge of express and also make a useful application for taking notes that actually stores you notes. 
+This project was built to strengthen the knowledge of express and also make a useful application for taking notes that actually stores your notes via express.
 ##### Deployed Application
 https://note-taker-express-nysat-b3aa373588ff.herokuapp.com/
 ##### Screenshot
